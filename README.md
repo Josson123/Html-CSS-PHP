@@ -3,3 +3,5 @@
 2.Time Table:-      Prepare a Timetable using HTML
 
 3.Content List:-    Create a Contents page using HTML(use nested List)
+
+4.Frameset Example:-Create an HTML code to generate the following output(using Frame)
